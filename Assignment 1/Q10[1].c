@@ -5,6 +5,7 @@
 // PROBLEM-10:WAP for compound interest
 
 #include<stdio.h>
+#include<maths.h>
 
 int main () {
 	double prin, rate, total;
@@ -24,3 +25,4 @@ int main () {
 
 	return 0; 
 }
+
